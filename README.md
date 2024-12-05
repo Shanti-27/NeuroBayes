@@ -220,6 +220,3 @@ or
 ```bash
 pip install git+https://github.com/ziatdinovmax/NeuroBayes.git
 ```
-=======
-# NeuroBayes
->>>>>>> 13ad52c2dcda317aa0283f634068e75dd3a43016
