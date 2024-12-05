@@ -1,6 +1,6 @@
-__author__ = "Maxim Ziatdinov"
-__maintainer__ = "Maxim Ziatdinov"
-__email__ = "maxim.ziatdinov@gmail.com"
+__author__ = "K Priya"
+__maintainer__ = "K Priya"
+__email__ = "k.shantipriya27@gmail.com"
 
 from setuptools import setup, find_packages
 import os
@@ -18,9 +18,9 @@ if __name__ == "__main__":
         description='Gaussian processes in NumPyro and JAX',
         long_description=open(os.path.join(module_dir, 'README.md')).read(),
         long_description_content_type='text/markdown',
-        url='https://github.com/ziatdinovmax/NeuroBayes/',
-        author='Maxim Ziatdinov',
-        author_email='maxim.ziatdinov@gmail.com',
+        url='https://github.com/Shanti-27/NeuroBayes/',
+        author='K Priya',
+        author_email='your_email@example.com',
         license='MIT license',
         packages=find_packages(),
         zip_safe=False,
